@@ -1,4 +1,4 @@
-# 05-Postman-Ciudades
+# Spring-peticiones
 
 Al arrancar el programa crear una lista de objetos tipo Ciudad. Ciudad tendrá dos campos: nombre(String) y numeroHabitantes (int)
 En controlador1, en la URL /controlador1/addCiudad, petición tipo POST, se añadirá una ciudad a la lista.
